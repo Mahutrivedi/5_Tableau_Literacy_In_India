@@ -1,0 +1,35 @@
+1. Understand individual columns of the dataset:
+	There are total of 3 columns. 
+    A.	District (Nominal categorical): Many districts of a state, total count is 640.
+    B.	State (Nominal categorical): Various states of India, total count is 35.
+    C.	Literacy (Numerical): 36.1 to 97.91 range
+
+2. Understand the dataset 
+    •	The dataset is of various state in India and their respective districts with literacy rate.
+    •	There isn’t any detail available for state Telangana
+    •	Aurangabad is in both Bihar and Maharashtra
+    •	Bijapur is in Chhattisgarh and Karnataka
+    •	Bilaspur is in Chhattisgarh and Himachal Pradesh
+    •	Hamirpur is in Uttar Pradesh and Himachal Pradesh
+    •	Pratapgarh is in Rajasthan and Uttar Pradesh
+    •	Raigarh is in Chhattisgarh and Maharashtra
+
+
+
+3. The end goal here is to identify literacy rate in various parts of India, and identify why particular region is having particular literacy rate.  Although from the dataset we can’t say why particular district or state is having particular literacy rate, we can use internet for the same.
+
+4. What insights can be brought out:
+
+    1)	Top 10 district based on literacy rate
+    2)	Top 10 states based on literacy rate
+    3)	Bottom 10 district based on literacy rate
+    4)	Bottom 10 states based on literacy rate
+    5)	Literacy rate histogram distribution
+    6)	Literacy rate on Indian map (Either state data or district data can be used)
+    7)	Create high, medium and low literacy groups
+
+5. Filters:  As a filter Region and literacy rate can be set.
+
+6. Steps for project are: 
+    •	Create various charts for various insights mentioned earlier.
+    •	Create a dashboard with action filters.
